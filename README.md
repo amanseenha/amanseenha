@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanseenha
 - 👀 I’m interested in ... Web-Development
-- 🌱 I’m currently learning ... HTML5, CSS, JavaScript
+- 🌱 I’m currently learning ... Java, HTML5, CSS, JavaScript, DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
