@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Web-Developer
 ----------------------
 
-* 🌍  I'm based in Bhubaneswar
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/amanxsinha)
 * 🧠  I'm learning Python, JS, DSA
 * 🤝  I'm open to collaborating on Web-Dev projects
 
